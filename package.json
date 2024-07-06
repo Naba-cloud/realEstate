@@ -1,0 +1,32 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Naba-cloud",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.13.22",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naba-cloud/realEstate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Naba-cloud/realEstate/issues"
+  },
+  "homepage": "https://github.com/Naba-cloud/realEstate#readme",
+  "description": ""
+}
